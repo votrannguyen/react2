@@ -11,3 +11,52 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.row{
+  margin: 20px 0 0 0 !important;
+}
+.card{
+  cursor: pointer;
+}
+.img{
+  
+  height: 250px;
+  width: 100%;
+  text-align: center;
+  background-image: url("./img/avatarUser.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+p,h1{
+  text-align: left;
+}
+.textNhanvien p{
+  font-size: 26px;
+  text-align: left;
+  padding-left: 20px;
+}
+.imgNhanvien{
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  background-image: url("./img/avatarUser.jpg");
+  background-repeat: no-repeat;
+}
+.soluongPhongBan{
+  height: 100px;
+}
+.soluongPhongBan p{
+  padding-left: 30px;
+}
+.soluongPhongBan div{
+  text-align: left;
+  padding-left: 30px;
+}
+.footer{
+  background-color: aqua;
+}
+.icon {
+  padding-top: 50px;
+}
+.icon i {
+  font-size: 32px;
+}
